@@ -39,6 +39,7 @@ input1 = int(input("Enter the length: "))
 input2 = int(input("Enter the width: "))
 
 def area_of_rectangle(lenght,width):
+    """Rectangle area"""
     area = lenght * width
     print("Calculating the area...")
 
